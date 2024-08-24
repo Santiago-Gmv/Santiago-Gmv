@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.gifer.com/o6m.gif"  />
+  <img height="150" src="https://static.qobuz.com/images/covers/ob/7i/zeu48zkxi7iob_600.jpg"  />
 </div>
 
 ###
