@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">Hola👋, Soy Santiago</h1>
+<h1 align="center">Hola👋, Soy Santiago Gmv</h1>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Estoy en:<br><br>- 🔭 Programador Back End<br>- 📚 Actualmente Esoty Aprendiendo*MySQL , openCV y Inteligencia Art*<br>- ⚡ En mi tiempo libre Estudio para ampliar cada dia mas mis conocimientos.<br>- 📚 Idiomas: Portugues y español</p>
+<p align="left">Estoy en:<br><br>- 🔭 Programador Back End<br>- 📚 Actualmente Estoy Aprendiendo MySQL , openCV y Inteligencia Art<br>- ⚡ En mi tiempo libre Estudio para ampliar cada dia mas mis conocimientos.<br>- 📚 Idiomas: Portugues y español</p>
 
 ###
 
