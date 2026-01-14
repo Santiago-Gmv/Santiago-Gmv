@@ -68,16 +68,10 @@ Estudiante de programación en constante evolución. Me gusta aprender a través
 
 ---
 
-## 📈 Mis estadísticas
+## 🐍 Snake de contribuciones
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiago-GMV&theme=dark&hide_border=false"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santiago-GMV&show_icons=true&theme=dark"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
