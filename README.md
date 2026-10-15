@@ -23,7 +23,7 @@
 - 💬 Ask me about: **Ask me about backend development, mobile apps, Linux, automation, and cybersecurity.**
 - ⚡ Fun fact: **Fun fact: I enjoy solving technical problems as much as building new projects.**
 - 📂 Portfolio: **<a href="[https://portafolio-sepia-five.vercel.app/](https://santi.servehttp.com/portafolio/)" target="_blank">https://santi.servehttp.com/portafolio/</a>**
-- 📝 Blog: **<a href="www.linkedin.com/in/santiago-vera-4731b5325" target="_blank">www.linkedin.com/in/santiago-vera-4731b5325</a>**
+
 
 
  **<h3 align="center">Skills</h3>**
