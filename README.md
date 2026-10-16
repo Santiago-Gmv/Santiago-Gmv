@@ -1,4 +1,4 @@
-![💻 Hi, I'm Santiago ](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![💻 Hi, I'm Santiago ](blob:https://claude.ai/5a985720-0b09-4e06-b816-f19873de3d10)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Santiago-Gmv&label=Profile%20views&color=0e75b6&style=flat)
 
