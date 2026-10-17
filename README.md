@@ -1,6 +1,5 @@
 <img width="2560" height="976" alt="github-banner" src="https://github.com/user-attachments/assets/fc7a5660-8150-4cae-96db-7b062f1e17ba" />
 
-![Profile views](https://komarev.com/ghpvc/?username=Santiago-Gmv&label=Profile%20views&color=0e75b6&style=flat)
 
 <div align="center">
   <img width="125" height="125" alt="icono" src="https://github.com/user-attachments/assets/cd40f738-e963-4e42-aeb1-d8f8d506bb9a" />
