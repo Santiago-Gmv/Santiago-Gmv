@@ -3,7 +3,7 @@
 
 <div align="center">
   <img width="112" height="112" src="https://github.com/user-attachments/assets/cd40f738-e963-4e42-aeb1-d8f8d506bb9a" alt="Santiago's avatar" />
-  <h1>Hey there, I'm Santiago Vera 👋</h1>
+  <h1>Hey there, I'm Santiago Vera </h1>
   <h3>Backend & Mobile Developer · APIs · Automation</h3>
 
   <p>
